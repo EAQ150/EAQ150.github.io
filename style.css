@@ -20,4 +20,9 @@ html{
 .navbar a{
   color:whitesmoke;
   font-size: 19px;
+  text-decoration: none;
+}
+a{
+  color:whitesmoke;
+  text-decoration: none;
 }
