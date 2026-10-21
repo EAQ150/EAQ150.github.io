@@ -26,3 +26,7 @@ a{
   color:whitesmoke;
   text-decoration: none;
 }
+.caption{
+  color: rgb(250, 230, 255);
+  font-size: 9px;
+}
