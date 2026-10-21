@@ -1,8 +1,8 @@
 html{
     background-color: rgb(9, 1, 44);
     color: rgb(240, 214, 255);
-    
-
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
 }
 .inline{
     background-color: rgb(72, 10, 129);
