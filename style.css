@@ -6,13 +6,11 @@ html{
 }
 .inline{
     background-color: rgb(72, 10, 129);
-    width:50%;
     padding:20px;
     margin:auto;
 }
 .navbar{
     background-color: rgb(72, 10, 129);
-    width:50%;
     padding:20px;
     margin:auto;
   text-align: center;
@@ -29,4 +27,13 @@ a{
 .caption{
   color: rgb(250, 230, 255);
   font-size: 9px;
+}
+
+@media (max-width:600px){
+  .inline, .navbar{
+    width:auto;
+  }
+  html{
+    padding:0;
+  }
 }
