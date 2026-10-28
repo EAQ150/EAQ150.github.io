@@ -3,6 +3,7 @@ html{
     color: rgb(240, 214, 255);
     font-family: 'Times New Roman', Times, serif;
     padding: 20px;
+    overscroll-behavior:none;
 }
 .inline{
     background-color: rgb(72, 10, 129);
