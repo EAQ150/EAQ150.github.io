@@ -1,6 +1,7 @@
 html{
     background: url(starbg.png);
     background-attachment:fixed;
+    background-size: 200% 200%;
     color: rgb(240, 214, 255);
     font-family: 'Times New Roman', Times, serif;
     padding: 20px;
