@@ -1,1 +1,1 @@
-if anyone knows how to make it look better please help, i need help so bad.
+This is the repository for my webpage. If you have any way of helping me, please reach out. I am just too bad at CSS that I can't really make it look nice. (it's not meant to be a modern website but look like those 2007 blog sites. (i.e. deltarune.com/december))
